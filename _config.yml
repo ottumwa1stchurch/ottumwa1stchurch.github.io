@@ -1,4 +1,7 @@
-url: http://ottumwa1stchurch.github.io
+url: http://dev.ottumwa1stchurch.com/
+
+#url: http://ottumwa1stchurch.github.io
+
 baseurl:
 #baseurl: /agency-jekyll-theme/
 
@@ -19,19 +22,19 @@ people:
   pic: 1
   position: Pastor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+#    - title: twitter
+#     url: #
+#    - title: facebook
+#      url: #
 
 - name: Bill Hornback 
   pic: 2
   position: Lead Pastor
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+#    - title: twitter
+#     url: #
+#    - title: facebook
+#      url: #
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 
