@@ -36,13 +36,13 @@ people:
 social:
 
   - title: facebook
-    url:
+    url: https://www.facebook.com/FirstChurchOfTheOpenBibleOfOttumwa
 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+#  - line: 3481 Melrose Place
+#  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
