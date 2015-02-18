@@ -12,8 +12,14 @@
 
                                 <div class="row">
                                     <div class="col-lg-12 text-center">
-                                        <h2 class="section-heading">Location</h2><br>
-                                    </h3></div>
+                                        <h2 class="section-heading">Location</h2>
+                                        <h3 class=" " style="color:#ffffff">
+                                            {% for address in site.address %}
+                                            {{address.line}}
+                                            {% endfor %}
+                                        </h3><br>
+
+                                        </div>
                                 </div>
 
                             <div class="col-lg-12">
@@ -21,9 +27,6 @@
                                     <div class= "text-center">
                                         <a href="https://www.google.com/maps?q=1932+Albia+Rd+Ottumwa,+IA+52501&es_sm=119&um=1&ie=UTF-8&sa=X&ei=efrjVNT8B8mmyAT38YHoCw&ved=0CAgQ_AUoAQ"
                                            class="page-scroll btn btn-xl "  target="_blank">
-                                            {% for address in site.address %}
-                                            {{address.line}}
-                                            {% endfor %}
                                             <p class="text-muted">Click here for directions.</p>
                                         </a>
 
@@ -43,29 +46,13 @@
                                 </div>
 
                                 <div class="row">
-                                    <div class="col-xs-12 col-sm-6  col-lg-12 text-center">
+                                    <div class=" col-lg-12 text-center">
                                        <br> <br><h2 class="section-heading">Phone</h2><br>
                                         </h3></div>
                                 </div>
                                 <div class= "text-center">
                                     <a href="tel:6416846501" class="page-scroll btn btn-xl ">641-684-6501</a>
                                 </div>
-                                <div class= "text-center">
-                                    <a href="tel:6416846501" class="page-scroll btn btn-block btn-xl ">641-684-6501</a>
-                                </div>
-                            <div class= "text-center">
-                                <a href="tel:6416846501" class="page-scroll btn btn-warning ">641-684-6501</a>
-                            </div>
-                            <div class= "text-center">
-                                <a href="tel:6416846501" class="page-scroll btn btn-danger ">641-684-6501</a>
-                            </div>
-                            <div class= "text-center">
-                                <a href="tel:6416846501" class="page-scroll btn btn-default ">641-684-6501</a>
-                            </div>
-
-
-
-
 
 
                         </div>
