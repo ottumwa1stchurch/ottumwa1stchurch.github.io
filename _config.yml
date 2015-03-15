@@ -6,7 +6,7 @@ baseurl:
 #baseurl: /agency-jekyll-theme/
 
 # Site settings:
-title: First Church of the Open Bible
+title: First Church <span style="font-size:.65em">of the</span> <span style="font-size:.85em">Open Bible</span>
 #title: Open Bible
 
 email: joshmccall221@gmail.com

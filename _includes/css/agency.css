@@ -583,7 +583,7 @@ section h3.section-subheading {
     }
 }
 
-@media(min-width:992px) {
+@media(min-width:1100px) {
     .timeline>li {
         min-height: 150px;
     }
