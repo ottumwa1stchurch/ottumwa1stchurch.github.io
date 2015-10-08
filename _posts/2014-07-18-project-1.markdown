@@ -1,6 +1,6 @@
 ---
-title: Upcoming Events
-subtitle: Fall Craft Show
+title: Fall Craft Show
+subtitle: More Info Here!
 layout: default
 modal-id: 1
 date: 2014-07-18
