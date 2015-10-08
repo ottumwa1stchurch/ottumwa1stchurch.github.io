@@ -8,6 +8,6 @@ img:  fall-craft-show-flyer.jpg
 thumbnail: fall-craft-show-thumbnail.png
 alt: image-alt
 project-date: Sat. Nov. 2, 9am-2pm
-description: Join us for the Fall Craft Show and lunch! If you are a vendor, register <a href="http://goo.gl/forms/oacwXRXjO3"> here</a> or at the church office.
+description: <p>Join us for the Fall Craft Show and lunch!</p> <p>If you are a vendor, register <a href="http://goo.gl/forms/oacwXRXjO3"> here</a> or at the church office.</p>
 
 ---
