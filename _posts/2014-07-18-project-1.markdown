@@ -1,5 +1,5 @@
 ---
-title: Fall Craft Show
+title: 
 subtitle: More Info Here!
 layout: default
 modal-id: 1
