@@ -1,13 +1,13 @@
 ---
-title: Sermons
-subtitle: Sunday Mornings
+title: Upcoming Events
+subtitle: Fall Craft Show
 layout: default
 modal-id: 1
 date: 2014-07-18
 img:  blurr.jpg 
 thumbnail: coffee-thumbnail.jpg
 alt: image-alt
-project-date: 
-description: Looks like we don't have anything just yet. Stay tuned for messages, media and more.
+project-date: Sat. Nov. 2, 9am-2pm
+description: Join us for the Fall Craft Show and lunch! If you are a vendor, register <a href="http://goo.gl/forms/oacwXRXjO3"> here</a> or at the church office.
 
 ---
