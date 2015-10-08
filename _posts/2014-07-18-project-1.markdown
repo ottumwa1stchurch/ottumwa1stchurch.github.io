@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img:  fall-craft-show-flyer.jpg 
-thumbnail: coffee-thumbnail.jpg
+thumbnail: fall-craft-show-thumbnail.png
 alt: image-alt
 project-date: Sat. Nov. 2, 9am-2pm
 description: Join us for the Fall Craft Show and lunch! If you are a vendor, register <a href="http://goo.gl/forms/oacwXRXjO3"> here</a> or at the church office.
