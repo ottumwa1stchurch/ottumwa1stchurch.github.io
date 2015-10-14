@@ -15,7 +15,7 @@ description: "Welcome to Ottumwa 1st Church of the Open Bible!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136  ### yellow
+  primary: 00cce4  ### turquoise
   #primary: 749FD0  ### sarah suggestion
   #primary: 2E67A6  ### blue
   #primary:115198    ### dark blue 
