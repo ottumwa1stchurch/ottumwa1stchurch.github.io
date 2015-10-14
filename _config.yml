@@ -19,7 +19,7 @@ color:
   #primary: 749FD0  ### sarah suggestion
   #primary: 2E67A6  ### blue
   #primary:115198    ### dark blue 
-  secondary: fec503
+  secondary: 00fffc   ### lighter turquoise
   #secondary: 033cfe
   secondary-dark: 333
 
