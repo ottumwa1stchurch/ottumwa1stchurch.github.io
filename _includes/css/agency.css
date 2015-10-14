@@ -662,6 +662,10 @@ section#contact {
     background-image: url(../img/church-map.jpg);
     background-position: center;
     background-repeat: no-repeat;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -o-background-size: 100% 100%;
 }
 
 section#contact .section-heading {
