@@ -177,7 +177,7 @@ background-color: #fff;
 
 .navbar-default .navbar-brand {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #{{ site.color.primary }};
+    color: #ffffff;
 }
 
 .navbar-default .navbar-brand:hover,
