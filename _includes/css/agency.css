@@ -265,7 +265,7 @@ background-color: #{{ site.color.primary }};
 header {
     text-align: center;
     color: #fff;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-image: url(../img/open-bible-header.jpg);
     background-position: center center;
     background-repeat: none;
