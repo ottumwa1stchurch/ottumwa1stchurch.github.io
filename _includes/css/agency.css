@@ -277,10 +277,7 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    text-shadow: 0.25px 0.25px #000000,
-    			 -0.25px -0.25px #000000,
-    			 -0.25px 0.25px #000000,
-    			 0.25px -0.25px #000000;
+    
 }
 
 header .intro-text {
@@ -303,6 +300,10 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
+    text-shadow: 0.25px 0.25px #000000,
+    			 -0.25px -0.25px #000000,
+    			 -0.25px 0.25px #000000,
+    			 0.25px -0.25px #000000;
 }
 
 @media(min-width:768px) {
@@ -677,14 +678,21 @@ section#contact {
     -moz-background-size: auto 100%;
     background-size: auto 100%;
     -o-background-size: auto 100%;
+}
+
+section#contact .section-heading {
+    color: #fff;
     text-shadow: 0.25px 0.25px #000000,
     			 -0.25px -0.25px #000000,
     			 -0.25px 0.25px #000000,
     			 0.25px -0.25px #000000;
 }
 
-section#contact .section-heading {
-    color: #fff;
+section#contact .address {
+    text-shadow: 0.25px 0.25px #000000,
+    			 -0.25px -0.25px #000000,
+    			 -0.25px 0.25px #000000,
+    			 0.25px -0.25px #000000;
 }
 
 section#contact .form-group {
