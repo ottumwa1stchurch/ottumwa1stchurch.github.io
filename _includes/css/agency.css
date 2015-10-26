@@ -304,6 +304,10 @@ header .intro-text .intro-heading {
     			 -0.25px -0.25px #000000,
     			 -0.25px 0.25px #000000,
     			 0.25px -0.25px #000000;
+    -webkit-text-shadow: 0.25px 0.25px #000000,
+    			 -0.25px -0.25px #000000,
+    			 -0.25px 0.25px #000000,
+    			 0.25px -0.25px #000000;			 
 }
 
 @media(min-width:768px) {
