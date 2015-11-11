@@ -6,7 +6,7 @@ modal-id: 1
 date: 2014-07-18
 img: 
 thumbnail: fall-craft-show-thumbnail.png
-alt: image-alt
+alt: 
 project-date: 
 description: <p>You just missed the Fall Craft Show! </p> <p>But be sure to check back here for upcoming events as they are posted.</p>
 
