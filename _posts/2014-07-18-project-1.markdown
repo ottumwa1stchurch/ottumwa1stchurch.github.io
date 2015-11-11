@@ -4,7 +4,7 @@ subtitle: Sunday Mornings
 layout: default
 modal-id: 1
 date: 2014-07-18
-img:  coffee.jpg 
+img:  
 thumbnail: coffee-thumbnail.jpg
 alt: image-alt
 project-date: 
