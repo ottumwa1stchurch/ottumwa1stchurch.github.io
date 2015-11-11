@@ -4,9 +4,9 @@ subtitle: More Info Here!
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: 
+img: fall-craft-show-thumbnail.png
 thumbnail: fall-craft-show-thumbnail.png
-alt: 
+alt: image-alt
 project-date: 
 description: <p>You just missed the Fall Craft Show! </p> <p>But be sure to check back here for upcoming events as they are posted.</p>
 
