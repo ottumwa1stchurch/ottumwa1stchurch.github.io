@@ -4,6 +4,15 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+body {
+    height: 100vh;
+}
+
+body {
+    min-height: 100vh;
+}
+
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -268,16 +277,17 @@ background-color: #{{ site.color.primary }};
 }
 
 header {
+    height: 100vh;
     text-align: center;
     color: #fff;
     background-attachment: scrolled;
-    background-image: url(../img/open-bible-header.jpg);
+    background-image: url(../img/light-of-christmas-website-header-text.jpg);
     background-position: center center;
     background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    -webkit-background-size: auto 100%;
+    -moz-background-size: auto 100%;
+    background-size: auto 100%;
+    -o-background-size: auto 100%;
     
 }
 
