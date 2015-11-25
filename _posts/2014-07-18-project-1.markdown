@@ -4,10 +4,10 @@ subtitle: More Info Here!
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: fall-craft-show-thumbnail.png
-thumbnail: fall-craft-show-thumbnail.png
+img: light-of-christmas-info.jpg
+thumbnail: light-of-christmas-info-thumbnail.jpg
 alt: image-alt
 project-date: 
-description: <p>You just missed the Fall Craft Show! </p> <p>But be sure to check back here for upcoming events as they are posted.</p>
+description: <h5>Join us for this special Christmas Service as we celebrate the True Light of Christmas!</h5><p>Everyone is welcome!</p><p><strong>When</strong> - Sunday, December 20th 8:30 am and 10:30 am.<br><strong>Where</strong> - First Church of the Open Bible, 1932 Albia Rd. Ottumwa, Iowa</p><p>Hosted by First Church of the Open Bible with Pastor Bill Hornback and Marketplace Worship.<br>Nursery and Children's Church will be available for children up to 5th Grade.<br>Need a ride? Call 641-684-6501.</p><p>Also check us out on <a href="https://www.facebook.com/FirstChurchOfTheOpenBibleOfOttumwa/" target="_blank">Facebook!</a></p>
 
 ---

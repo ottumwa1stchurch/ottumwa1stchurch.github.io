@@ -281,13 +281,13 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scrolled;
-    background-image: url(../img/light-of-christmas-website-header-text.jpg);
+    background-image: url(../img/light-of-christmas-website-header-text2.jpg);
     background-position: center center;
     background-repeat: none;
-    -webkit-background-size: auto 100%;
-    -moz-background-size: auto 100%;
-    background-size: auto 100%;
-    -o-background-size: auto 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     
 }
 
