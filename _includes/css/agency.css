@@ -282,7 +282,7 @@ header {
     color: #fff;
     background-attachment: scrolled;
     background-image: url(../img/light-of-christmas-website-header-text2.jpg);
-    background-position: center center;
+    background-position: 50% 0%;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
