@@ -906,9 +906,3 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
-
-@media(max-width:430px) {
-    .col-lg-12  {
-    max-width: 400px;
-    }
-}
