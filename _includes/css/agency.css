@@ -277,7 +277,7 @@ background-color: #{{ site.color.primary }};
 }
 
 header {
-    height: 100vh;
+    height: 100%;
     text-align: center;
     color: #fff;
     background-attachment: scrolled;
@@ -326,11 +326,15 @@ header .intro-text .intro-heading {
    		 
 }
 
+ header hr {
+    width: 75%;
+    }
+
 @media(min-width:768px) {
+
     
     header .intro-text {
-        padding-top: 37%;
-        
+        padding-top: 50%;        
     }
 
     header .intro-text .intro-lead-in {
@@ -346,6 +350,15 @@ header .intro-text .intro-heading {
         font-weight: 700;
         line-height: 75px;
     }
+}
+
+@media(min-width:1000px) {
+
+    
+    header .intro-text {
+        padding-top: 40%;        
+    }
+
 }
 
 section {
