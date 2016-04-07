@@ -1,0 +1,13 @@
+---
+title: Devotions 
+subtitle: Devotional Blog
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: notes.jpg 
+thumbnail: notes-thumbnail.jpg
+alt: image-alt
+project-date: 
+description: A place for for devotions. 
+
+---

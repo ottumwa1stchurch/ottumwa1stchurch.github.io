@@ -1,0 +1,16 @@
+---
+title: Announcements
+subtitle: April 3, 2016 
+layout: default
+modal-id: 2
+date: 2016-04-03
+img: white_pixel.png
+thumbnail: April3rdAnouncements.png
+alt: image-alt
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/sHFYz1P7qkA" frameborder="0" allowfullscreen></iframe>
+
+---
+
+
+
