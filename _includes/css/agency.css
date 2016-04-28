@@ -7,10 +7,12 @@
 
 body {
     height: 100vh;
+    overflow-x: hidden;
 }
 
 body {
     min-height: 100vh;
+    overflow-x: hidden;
 }
 
 body {
@@ -277,17 +279,18 @@ background-color: #{{ site.color.primary }};
 }
 
 header {
+    overflow-x: hidden;
     margin-top: 60px;
-    height: 75%;
+    height: 100%;
     text-align: center;
     color: #fff;
     background-attachment: scrolled;
-    background-image: url(../img/callofgodbanner.jpg);
-    background-position: 45% 0%;
-    background-repeat: none;
+    background-image: url(../img/callofgodbanner.jpg), url(../img/orangetile.svg);
+    background-position: 50% 0%;
+    background-repeat: no-repeat, repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
+    background-size: 100%, 100%;
     -o-background-size: cover;
 
 }
