@@ -277,7 +277,8 @@ background-color: #{{ site.color.primary }};
 }
 
 header {
-    height: 100%;
+    margin-top: 60px;
+    height: 75%;
     text-align: center;
     color: #fff;
     background-attachment: scrolled;
