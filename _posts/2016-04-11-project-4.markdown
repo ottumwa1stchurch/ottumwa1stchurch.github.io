@@ -1,5 +1,5 @@
 ---
-title: The Call of God promo
+title: Announcements
 subtitle: Sunday April 10th @ 10 am
 layout: default
 modal-id: 4
