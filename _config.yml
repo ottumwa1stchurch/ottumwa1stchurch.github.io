@@ -15,11 +15,12 @@ description: "Welcome to Ottumwa 1st Church of the Open Bible!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 00cce4  ### turquoise
+  primary: E84F00  ### burnt orange
   #primary: 749FD0  ### sarah suggestion
   #primary: 2E67A6  ### blue
-  #primary:115198    ### dark blue 
-  secondary: 00fffc   ### lighter turquoise
+  #primary:115198    ### dark blue
+  secondary: #BB0808 ### light maroon
+  #secondary: FFB70F   ### lighter yellow
   #secondary: 033cfe
   secondary-dark: 333
 
@@ -35,7 +36,7 @@ people:
 #    - title: facebook
 #      url: #
 
-- name: Mark Hornback 
+- name: Mark Hornback
   pic: 1
   position: Assoc. Pastor
   social:
