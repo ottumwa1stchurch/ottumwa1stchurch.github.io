@@ -8,6 +8,7 @@
 body {
     height: 100vh;
     overflow-x: hidden;
+    background-color: #dedede;
 }
 
 body {
@@ -405,7 +406,7 @@ section h3.section-subheading {
 }
 .portfolio-item img {
     height: 240px;
-    width: 360px;
+
 }
 
 
