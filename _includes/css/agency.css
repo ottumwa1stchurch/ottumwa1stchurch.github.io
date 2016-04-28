@@ -281,32 +281,32 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scrolled;
-    background-image: url(../img/woman-sparkler.jpg);
+    background-image: url(../img/call-of-god.png);
     background-position: 45% 0%;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    
+
 }
 
 header .intro-text 	a:active,
-		a.active, 
+		a.active,
 		a:hover {
     text-decoration: none;
-    color: #fbffca;
-    text-shadow: 0.25px 0.25px 10px #fff,
-    			 -0.25px -0.25px 10px #fff,
-    			 -0.25px 0.25px 10px #fff,
-    			 0.25px -0.25px 10px #fff,
-    			 0px 0.25px 1px #fff;
-    
+    color: #00AFE8;
+    text-shadow: 0.25px 0.25px 10px #50504f,
+    			 -0.25px -0.25px 10px #50504f,
+    			 -0.25px 0.25px 10px #50504f,
+    			 0.25px -0.25px 10px #50504f,
+    			 0px 0.25px 1px #50504f;
+
 }
 
 header .intro-text {
     padding-top: 375px;
-   
+
 }
 
 header .intro-text .intro-lead-in {
@@ -323,7 +323,11 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
-   		 
+    text-shadow: 0.25px 0.25px 10px #000,
+           -0.25px -0.25px 10px #000,
+           -0.25px 0.25px 10px #000,
+           0.25px -0.25px 10px #000,
+           0px 0.25px 1px #000;
 }
 
  header hr {
@@ -332,9 +336,10 @@ header .intro-text .intro-heading {
 
 @media(min-width:768px) {
 
-    
+
     header .intro-text {
-        padding-top: 50%;        
+        padding-top: 50%;
+        color: #333;
     }
 
     header .intro-text .intro-lead-in {
@@ -354,9 +359,9 @@ header .intro-text .intro-heading {
 
 @media(min-width:1000px) {
 
-    
+
     header .intro-text {
-        padding-top: 40%;        
+        padding-top: 40%;
     }
 
 }
