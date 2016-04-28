@@ -277,11 +277,12 @@ background-color: #{{ site.color.primary }};
 }
 
 header {
-    height: 100%;
+    margin-top: 60px;
+    height: 75%;
     text-align: center;
     color: #fff;
     background-attachment: scrolled;
-    background-image: url(../img/callofgodbanner.png);
+    background-image: url(../img/callofgodbanner.jpg);
     background-position: 45% 0%;
     background-repeat: none;
     -webkit-background-size: cover;
