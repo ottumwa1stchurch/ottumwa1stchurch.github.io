@@ -1,16 +1,13 @@
 ---
 title: The Call of God promo
-subtitle: Sunday April 10th @ 10 am 
+subtitle: Sunday April 10th @ 10 am
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2016-04-03
 img: white_pixel.png
 thumbnail: callOfGod.png
 alt: image-alt
-project-date: 
+project-date:
 description: <iframe width="560" height="315" src="https://www.youtube.com/embed/oVIx85eXemI" frameborder="0" allowfullscreen></iframe>
 
 ---
-
-
-
