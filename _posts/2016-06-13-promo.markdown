@@ -1,6 +1,6 @@
 ---
 title: Dangerous Prayers Promo
-subtitle: Sunday June 5 @ 10 am
+subtitle: New Sunday Series!
 layout: default
 modal-id: 12
 date: 2016-06-13
