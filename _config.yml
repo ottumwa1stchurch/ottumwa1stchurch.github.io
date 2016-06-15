@@ -19,7 +19,7 @@ color:
   #primary: 749FD0  ### sarah suggestion
   #primary: 2E67A6  ### blue
   #primary:115198    ### dark blue
-  secondary: #BB0808 ### light maroon
+  secondary: BB0808 ### light maroon
   #secondary: FFB70F   ### lighter yellow
   #secondary: 033cfe
   secondary-dark: 333
