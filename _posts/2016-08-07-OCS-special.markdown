@@ -1,6 +1,6 @@
 ---
 title: OCS Special Announcement
-subtitle: Ottumwa Christian School : Your Help Needed!
+subtitle: Your Help Needed!
 layout: default
 modal-id: 20
 date: 2016-08-07
