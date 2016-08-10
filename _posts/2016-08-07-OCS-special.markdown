@@ -1,6 +1,6 @@
 ---
-title: Announcements
-subtitle: Sunday August 7 @ 10am
+title: OCS Special Announcement
+subtitle: Sunday August 7
 layout: default
 modal-id: 20
 date: 2016-08-07
