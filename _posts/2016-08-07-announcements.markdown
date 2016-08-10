@@ -3,7 +3,7 @@ title: Announcements
 subtitle: Sunday August 7 @ 10am
 layout: default
 modal-id: 19
-date: 2016-08-07
+date: 2016-08-06
 img: white_pixel.png
 thumbnail: August07Announcements.png
 alt: image-alt
