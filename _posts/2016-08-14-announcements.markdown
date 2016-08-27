@@ -1,12 +1,12 @@
 ---
 title: Announcements
-subtitle: Sunday August 21 @ 10am
+subtitle: Sunday August 14 @ 10am
 layout: default
-modal-id: 22
-date: 2016-08-21
+modal-id: 21
+date: 2016-08-07
 img: white_pixel.png
-thumbnail: August21Announcements.png
+thumbnail: August14Announcements.png
 alt: image-alt
 project-date:
-description: <iframe width="560" height="315" src="https://www.youtube.com/embed/AIDsYwtjxVY" frameborder="0" allowfullscreen></iframe>
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/KVN5uNBWMEA" frameborder="0" allowfullscreen></iframe>
 ---
