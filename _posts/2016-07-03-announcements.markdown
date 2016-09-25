@@ -8,5 +8,6 @@ img: white_pixel.png
 thumbnail: July3Announcements.png
 alt: image-alt
 project-date:
+published: false
 description: <iframe width="560" height="315" src="https://www.youtube.com/embed/U4D4pMVO2Kw" frameborder="0" allowfullscreen></iframe>
 ---
