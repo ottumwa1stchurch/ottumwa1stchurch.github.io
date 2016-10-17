@@ -2,7 +2,7 @@
 title: Announcements
 subtitle: Sunday October 16 @ 10am
 layout: default
-modal-id: 29
+modal-id: 30
 date: 2016-10-16
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/SGLPTXFBBtI/0.jpg
