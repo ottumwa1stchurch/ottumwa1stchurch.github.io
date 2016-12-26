@@ -1,6 +1,6 @@
 ---
 title: Announcements - Merry Christmas!
-subtitle: Sunday December 4 @ 10am
+subtitle: Sunday December 25 @ 10am
 layout: default
 modal-id: 35
 date: 2016-12-25
