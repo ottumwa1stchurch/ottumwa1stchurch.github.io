@@ -3,7 +3,7 @@ title: Announcements
 subtitle: Sunday January 8th
 layout: default
 modal-id: 37
-date: 2017-01-08
+date: 2017-01-8
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/c0tScWj2wNc/0.jpg
 alt: image-alt

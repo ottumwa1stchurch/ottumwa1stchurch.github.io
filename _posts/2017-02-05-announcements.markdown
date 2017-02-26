@@ -3,7 +3,7 @@ title: Announcements
 subtitle: Sunday February 5th
 layout: default
 modal-id: 40
-date: 2016-02-05
+date: 2017-02-5
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/QoLGUuTK6Lw/0.jpg
 alt: image-alt
