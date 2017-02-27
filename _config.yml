@@ -61,3 +61,8 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  events:
+    output: true
+    permalink: /events/:title:output_ext

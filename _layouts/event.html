@@ -1,0 +1,75 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+
+{% include head.html %}
+{% include navbar.html %}
+
+<header class="entry-header">
+  <h1 class="entry-title" itemprop="name">{{ page.title }}</h1>
+</header>
+<body id="page" itemscope itemtype="http://schema.org/WebPage">
+
+
+<!-- <div id="main" role="main" itemprop="mainContentOfPage">
+  <article class="entry" itemscope>
+
+    <div class="entry-wrapper">
+        <h1 class="entry-title" itemprop="name">{{ page.title }}</h1>
+        {{ page.subtitle }}
+
+        <img src="{{ site.url }}/img/{{ page.img }}" class="img-responsive" alt="" ></img>
+        {{ page.description }}
+        {{ content }}
+      </div>
+    </div>
+  </article>
+</div> -->
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+            <div class="modal-body">
+                <h2>{{ page.title }}</h2>
+                <hr class="star-primary">
+
+
+                {% if page.video %}
+                <iframe video-background src="https://player.vimeo.com/video/157153551?autoplay=1&loop=1&background=1"
+                  width="640"
+                  height="360"
+                  frameborder="0"
+                  webkitallowfullscreen mozallowfullscreen allowfullscreen>
+                </iframe>
+
+                {% else page.img %}
+                  <img src="{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}">
+
+                {% endif %}
+
+
+                <p>{{ page.description }}</p>
+                </br>
+                {{ page.content }}
+                </br>
+                <ul class="list-inline item-details">
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    {% include footer.html %}
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+{% include js.html %}
+
+</body>
+</html>
