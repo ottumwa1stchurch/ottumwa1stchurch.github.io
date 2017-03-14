@@ -37,8 +37,8 @@
                 <hr class="star-primary">
 
 
-                {% if page.video %}
-                <iframe video-background src="https://player.vimeo.com/video/157153551?autoplay=1&loop=1&background=1"
+                {% if page.vimeo %}
+                <iframe video-background src= {{ page.vimeo | append: '?autoplay=1&loop=1&background=1' }}
                   width="640"
                   height="360"
                   frameborder="0"
