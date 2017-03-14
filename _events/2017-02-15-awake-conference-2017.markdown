@@ -8,7 +8,8 @@ img: https://i.vimeocdn.com/video/558354601_1280x720.jpg
 thumbnail: https://i.vimeocdn.com/video/558354601_360x240.jpg
 alt: image-alt
 project-date:
-video: https://player.vimeo.com/video/157153551
+vimeo: https://player.vimeo.com/video/157153551
+published: false
 description:
 ---
 
