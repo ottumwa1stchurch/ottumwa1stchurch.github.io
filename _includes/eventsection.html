@@ -11,7 +11,7 @@
             {% for post in site.events %}
                 <div class="col-md-4 col-sm-6 col-centered">
                     <a href="events/{{ post.slug }}.html">
-                        <img src="{{ post.thumbnail }}" class="img-responsive" alt="" >
+                        <img src="{{ post.thumbnail }}" class="img-responsive lazyload" alt="" >
                     </a>
 
                     <div class="portfolio-caption">
