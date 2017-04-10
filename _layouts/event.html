@@ -42,11 +42,11 @@
                   width="640"
                   height="360"
                   frameborder="0"
-                  webkitallowfullscreen mozallowfullscreen allowfullscreen>
+                  webkitallowfullscreen mozallowfullscreen allowfullscreen class="lazyload">
                 </iframe>
 
                 {% else page.img %}
-                  <img src="{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}">
+                  <img src="{{ page.img }}" class="img-responsive img-centered lazyload" alt="{{ page.alt }}">
 
                 {% endif %}
 
