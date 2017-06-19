@@ -1,5 +1,5 @@
 ---
-title: Father's Day : Announcements
+title: Father's Day Announcements
 subtitle: Sunday June 18th
 layout: default
 modal-id: 55
