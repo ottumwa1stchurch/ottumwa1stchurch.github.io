@@ -27,10 +27,10 @@ color:
 # Team names, titles and social links
 
 people:
-- name: Bill Hornback
-  pic: 2
-  position: Lead Pastor
-  social:
+#- name: Bill Hornback
+#  pic: 2
+#  position: Lead Pastor
+#  social:
 #    - title: twitter
 #     url: #
 #    - title: facebook
@@ -38,7 +38,7 @@ people:
 
 - name: Mark Hornback
   pic: 1
-  position: Assoc. Pastor
+  position: Lead Pastor
   social:
 
 
