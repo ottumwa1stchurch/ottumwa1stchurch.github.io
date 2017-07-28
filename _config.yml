@@ -27,20 +27,26 @@ color:
 # Team names, titles and social links
 
 people:
-#- name: Bill Hornback
-#  pic: 2
-#  position: Lead Pastor
-#  social:
-#    - title: twitter
-#     url: #
-#    - title: facebook
-#      url: #
-
 - name: Mark & Jen Hornback
-  pic: 1
+  pic: markhornbackandfam
   position: Lead Pastor
   social:
 
+other-people:
+- name: Mark & Jen Hornback
+  pic: KatieKeith
+  position: Director - Soul Sisters
+  social:
+
+- name: Travis & Sarah Peel
+  pic: travisandsarah
+  position: Leaders - Kids Club!
+  social:
+
+- name: Kurtis Rupe
+  pic: KurtisRupe
+  position: Director - Revolution Youth Ministries
+  social:
 
 #    - title: twitter
 #     url: #
