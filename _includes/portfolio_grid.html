@@ -4,13 +4,13 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Announcements</h2>
-                    <h3 class="section-subheading text-muted">Check here for announcements and more.<h3>
+                    <h3 class="section-subheading text-muted">Announcements and more!<h3>
                 </div>
             </div>
-  <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFirstChurchOfTheOpenBibleOfOttumwa%2F&tabs=timeline&width=400&height=1000&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=245392459147109" width="400" height="1000" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-            <div class="row col-md-8">
 
+<!-- <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FFirstChurchOfTheOpenBibleOfOttumwa%2F&amp;tabs=timeline&amp;width=400&amp;height=1000&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=245392459147109" width="400" height="1000" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe> -->
 
+            <div class="row col-md-12">
             {% for post in site.posts %}
                 <div class="col-md-4 col-sm-6 portfolio-item lazyload">
                     <a href="#portfolioModal{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
@@ -19,7 +19,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="{{ post.thumbnail }}" class="img-responsive lazyload" alt="" >
+                        <img src="{{ post.thumbnail }}" class="img-responsive icon lazyload" alt="" >
                     </a>
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>
