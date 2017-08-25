@@ -1,6 +1,6 @@
 ---
-title: Financial Peace - Starts October 15th, 2017
-subtitle: More Info Here!
+title: Financial Peace
+subtitle: Starts October 15th, 2017 - More Info Here!
 layout: event
 modal-id: 4
 date: 2017-08-24
