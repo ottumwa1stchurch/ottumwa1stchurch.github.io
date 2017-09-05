@@ -2,7 +2,7 @@
 title: Financial Peace [Travis Peel]
 subtitle: Starts October 15th, 2017 - More Info Here!
 layout: event
-modal-id: 4
+modal-id: 1
 date: 2017-08-24
 img: ../img/fpu-banner.jpg
 thumbnail: ../img/fpu.jpg

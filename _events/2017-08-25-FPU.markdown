@@ -2,7 +2,7 @@
 title: Financial Peace [Terry & Tonya Thomas]
 subtitle: Starts September 24th, 2017 - More Info Here!
 layout: event
-modal-id: 5
+modal-id: 2
 date: 2017-08-23
 img: ../img/fpu-banner.jpg
 thumbnail: ../img/fpu.jpg
