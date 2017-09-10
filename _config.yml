@@ -1,10 +1,7 @@
-url: http://ottumwa1stchurch.com/
-
 #url: http://ottumwa1stchurch.github.io
-
-baseurl:
+url: http://ottumwa1stchurch.com/
 #baseurl: /agency-jekyll-theme/
-
+baseurl:
 # Site settings:
 title: First Church of the Open Bible
 title2: First Church <span style="font-size:.65em">of the</span> <span style="font-size:.85em">Open Bible</span>
@@ -12,7 +9,6 @@ title2: First Church <span style="font-size:.65em">of the</span> <span style="fo
 
 email: joshmccall221@gmail.com
 description: "Welcome to Ottumwa 1st Church of the Open Bible!"
-
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: E84F00  ### burnt orange
@@ -23,8 +19,6 @@ color:
   #secondary: FFB70F   ### lighter yellow
   #secondary: 033cfe
   secondary-dark: 333
-
-# Team names, titles and social links
 
 people:
 - name: Mark & Jen Hornback
@@ -48,16 +42,10 @@ other-people:
   position: Director - Revolution Youth Ministries
   social:
 
-#    - title: twitter
-#     url: #
-#    - title: facebook
-#      url: #
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
 
   - title: facebook
     url: https://www.facebook.com/FirstChurchOfTheOpenBibleOfOttumwa
-
 
 # Postal address (add as many lines as necessary)
 address:
