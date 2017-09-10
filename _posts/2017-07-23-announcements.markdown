@@ -8,5 +8,6 @@ img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/j6x6LmWdyDM/0.jpg
 alt: image-alt
 project-date:
+published: false
 description: <iframe width="560" height="315" src="https://www.youtube.com/embed/j6x6LmWdyDM" frameborder="0" allowfullscreen></iframe>
 ---
