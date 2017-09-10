@@ -287,7 +287,7 @@ header {
 this is where you change the header background image; url('../img/header.jpg');
 */
 div.banner {
-    background-image: url('../img/front-church-sm.jpg');
+    background-image: url('../img/ucbanner.jpg');
     overflow-x: hidden;
     margin-top: 60px;
     background-size: contain;
