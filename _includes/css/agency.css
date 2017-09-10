@@ -283,10 +283,11 @@ header {
 
 }
 
+
 div.banner {
+    background-image: url('../img/construction.jpg');
     overflow-x: hidden;
     margin-top: 60px;
-    background-image: url('../img/construction.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
