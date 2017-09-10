@@ -1,8 +1,7 @@
-url: http://ottumwa1stchurch.com/
 #url: http://ottumwa1stchurch.github.io
-
-baseurl:
+url: http://ottumwa1stchurch.com/
 #baseurl: /agency-jekyll-theme/
+baseurl:
 
 # Site settings:
 title: First Church of the Open Bible
