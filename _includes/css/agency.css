@@ -23,7 +23,8 @@ body {
 }
 
 .text-muted {
-    color: #777;
+    /*color: #777;*/
+    color: #a7a6a6;
 }
 
 .text-primary {
@@ -291,6 +292,7 @@ background-image: url('{{ site.baseurl }}/img/{{ site.data.template.background-i
 */
 div.banner {
     background-image: url('{{ site.baseurl }}/img/{{ site.graphics.background-image }}');
+    /*background-attachment: fixed;*/
     overflow-x: hidden;
     margin-top: 60px;
     background-size: contain;
@@ -990,7 +992,34 @@ body {
 
       color: white;
 
-  "
+}
+
+.stripes-light {
+
+    background: repeating-linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.9)
+      /*#cacaca,*/
+      /*#000*/
+      /*#cacaca,*/
+      /*#cacaca 10px,*/
+      /*#bababa 10px,*/
+      /*#bababa 20px*/
+      ),
+      url(http://s3-us-west-2.amazonaws.com/s.cdpn.io/3/old_map_@2X.png);
+
+      color: white;
+
+      /*background: repeating-linear-gradient(
+        45deg,
+        rgba(0, 0, 0, 0.2),
+        rgba(0, 0, 0, 0.2) 10px,
+        rgba(0, 0, 0, 0.3) 10px,
+        rgba(0, 0, 0, 0.3) 20px
+      ),
+      url(http://s3-us-west-2.amazonaws.com/s.cdpn.io/3/old_map_@2X.png);*/
+
 }
 
 
