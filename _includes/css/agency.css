@@ -285,9 +285,12 @@ header {
 
 /*
 this is where you change the header background image; url('../img/header.jpg');
+background-image: url('../img/ucbanner.jpg');
+or
+background-image: url('{{ site.baseurl }}/img/{{ site.data.template.background-image }}');
 */
 div.banner {
-    background-image: url('../img/ucbanner.jpg');
+    background-image: url('{{ site.baseurl }}/img/{{ site.graphics.background-image }}');
     overflow-x: hidden;
     margin-top: 60px;
     background-size: contain;
@@ -964,6 +967,27 @@ body {
     float: none;
     margin: 0 auto;
 }
+
+
+
+
+
+
+.stripes {
+
+    background: repeating-linear-gradient(
+      -45deg,
+      #222,
+      #222 10px,
+      #333 10px,
+      #333 20px
+      );
+
+      color: white;
+
+  "
+}
+
 
 
 /*  ----------  */
