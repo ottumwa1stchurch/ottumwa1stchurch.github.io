@@ -1,0 +1,12 @@
+---
+title: September 24th Announcements
+subtitle: September 24th Announcements with Pastor Mark Hornback and Richie Runnells
+layout: default
+modal-id: 2 
+date:  2017-09-24T14:53:45+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/LHl4qq3eA_c/0.jpg
+alt: https://i1.ytimg.com/vi/LHl4qq3eA_c/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/LHl4qq3eA_c" frameborder="0" allowfullscreen></iframe> 
+---
