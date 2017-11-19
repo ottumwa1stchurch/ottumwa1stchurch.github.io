@@ -2,7 +2,7 @@
 title: October 22nd Announcements
 subtitle: October 22nd Announcements with Pastor Mark Hornback and Richie Runnells.
 layout: default
-modal-id: 4 
+modal-id: 3 
 date:  2017-10-22T15:11:02+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/rMJAZmbf_nE/0.jpg

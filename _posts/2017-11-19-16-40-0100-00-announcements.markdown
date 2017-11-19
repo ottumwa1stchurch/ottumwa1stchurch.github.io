@@ -1,0 +1,12 @@
+---
+title: November 19 Announcements
+subtitle: November 19th Announcements with Pastor Mark Hornback and Sarah Peel
+layout: default
+modal-id: 7 
+date:  2017-11-19T16:40:01+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/r8Igoek04dY/0.jpg
+alt: https://i3.ytimg.com/vi/r8Igoek04dY/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/r8Igoek04dY" frameborder="0" allowfullscreen></iframe> 
+---

@@ -2,7 +2,7 @@
 title: Oct 15Announcements
 subtitle: October 15, Morning Announcements with Pastor Mark and Richie Runnells.
 layout: default
-modal-id: 3 
+modal-id: 2 
 date:  2017-10-15T15:38:26+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/NW_CcxSpr-s/0.jpg

@@ -2,7 +2,7 @@
 title: 0ct  29th Announcements
 subtitle: October 29th Morning Announcements with Pastor Mark Hornback.
 layout: default
-modal-id: 5 
+modal-id: 4 
 date:  2017-10-29T13:54:48+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/C0_WdK8TVxU/0.jpg
