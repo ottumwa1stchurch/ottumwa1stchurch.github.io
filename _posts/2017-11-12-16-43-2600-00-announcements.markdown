@@ -2,7 +2,7 @@
 title: November 12th Announcements
 subtitle: November 12th Announcements with Pastor Mark Hornback, Richie Runnells, and Travis, Sarah, and Maddie Peel
 layout: default
-modal-id: 5 
+modal-id: 4 
 date:  2017-11-12T16:43:26+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/XcuSPA4FC08/0.jpg
