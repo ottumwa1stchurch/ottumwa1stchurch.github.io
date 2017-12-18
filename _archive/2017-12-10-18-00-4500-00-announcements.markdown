@@ -2,7 +2,7 @@
 title: December 10th Announcements
 subtitle: Here are your morning announcements with Pastor Mark Hornback and Sarah Peel!
 layout: default
-modal-id: 6 
+modal-id: 7 
 date:  2017-12-10T18:00:45+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/-qGGh6uIkMQ/0.jpg
