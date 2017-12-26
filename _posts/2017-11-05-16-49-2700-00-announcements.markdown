@@ -2,7 +2,7 @@
 title: November 5th Announcements
 subtitle: November 5th Announcements with Pastor Mark Hornback and Richie Runnells
 layout: default
-modal-id: 1 
+modal-id: 2 
 date:  2017-11-05T16:49:27+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/IGeV-sKEWBA/0.jpg
