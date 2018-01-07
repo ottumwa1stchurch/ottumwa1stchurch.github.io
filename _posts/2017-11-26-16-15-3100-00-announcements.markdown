@@ -2,7 +2,7 @@
 title: Nov  26, 2017 Announcements
 subtitle: November 26, 2017 morning annoucnements with Pastor Mark Hornback and Sarah Peel.
 layout: default
-modal-id: 3 
+modal-id: 4 
 date:  2017-11-26T16:15:31+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/E7zNyHVtQVI/0.jpg
