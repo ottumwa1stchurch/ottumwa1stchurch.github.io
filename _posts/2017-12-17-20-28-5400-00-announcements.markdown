@@ -2,7 +2,7 @@
 title: December 17th, 2017 Announcements
 subtitle: December 17th morning announcements with Pastor Mark Hornback and Sarah Peel.
 layout: default
-modal-id: 7 
+modal-id: 6 
 date:  2017-12-17T20:28:54+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/N5uHcj_mV0U/0.jpg
