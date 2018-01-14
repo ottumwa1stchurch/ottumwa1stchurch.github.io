@@ -1,0 +1,12 @@
+---
+title: January 14th Announcements
+subtitle: Today's announcements with Pastor Mark Hornback, featuring Sarah and Travis Peel
+layout: default
+modal-id: 7 
+date:  2018-01-14T16:23:46+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/Jf-V8Nly6sM/0.jpg
+alt: https://i3.ytimg.com/vi/Jf-V8Nly6sM/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/Jf-V8Nly6sM" frameborder="0" allowfullscreen></iframe> 
+---
