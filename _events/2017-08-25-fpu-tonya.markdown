@@ -8,7 +8,7 @@ img: ../img/fpu-banner.jpg
 thumbnail: ../img/fpu.jpg
 alt: image-alt
 project-date:
-published: true
+published: false
 description:
 ---
 
