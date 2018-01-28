@@ -2,7 +2,7 @@
 title: January 21, 2018 Announcements
 subtitle: January 21, 2018 morning announcements with Pastor Mark Hornback.
 layout: default
-modal-id: 6 
+modal-id: 7 
 date:  2018-01-21T15:26:53+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/bQcwQxvAwlY/0.jpg
