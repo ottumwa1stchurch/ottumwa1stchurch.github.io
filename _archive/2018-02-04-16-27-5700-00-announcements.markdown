@@ -2,7 +2,7 @@
 title: Feb 4th Announcements
 subtitle: Here are your February Announcements with Pastor Mark Hornback and Sarah Peel.
 layout: default
-modal-id: 6 
+modal-id: 7 
 date:  2018-02-04T16:27:57+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/I542M7MXYz8/0.jpg

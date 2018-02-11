@@ -2,7 +2,7 @@
 title: Jan 7th Announcements
 subtitle: Jan. 7th Announcements with Pastor Mark Hornback
 layout: default
-modal-id: 3 
+modal-id: 2 
 date:  2018-01-07T16:44:28+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/j4WzfB-Xq4A/0.jpg
