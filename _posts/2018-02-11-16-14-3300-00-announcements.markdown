@@ -2,7 +2,7 @@
 title: February 11th Announcements
 subtitle: Here are your February 11th announcements with Pastor Mark Hornback and Richie Runnells
 layout: default
-modal-id: 5 
+modal-id: 4 
 date:  2018-02-11T16:14:33+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/QkjEDkmTRjk/0.jpg

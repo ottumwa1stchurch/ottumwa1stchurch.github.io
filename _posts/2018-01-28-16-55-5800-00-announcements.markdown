@@ -2,7 +2,7 @@
 title: January 28th Announcements
 subtitle: Jan. 28th's announcements brought to you by Pastor Mark Hornback and Sarah Peel
 layout: default
-modal-id: 3 
+modal-id: 2 
 date:  2018-01-28T16:55:58+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/9KKUo2V4JAQ/0.jpg
