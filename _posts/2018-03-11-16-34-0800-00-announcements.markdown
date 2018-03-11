@@ -1,0 +1,12 @@
+---
+title: March 11th Announcements
+subtitle: Here are your March 11th Announcements with Pastor Mark Hornback and Richie Runnells
+layout: default
+modal-id: 7 
+date:  2018-03-11T16:34:08+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/NfanOl0b2xU/0.jpg
+alt: https://i3.ytimg.com/vi/NfanOl0b2xU/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/NfanOl0b2xU" frameborder="0" allowfullscreen></iframe> 
+---
