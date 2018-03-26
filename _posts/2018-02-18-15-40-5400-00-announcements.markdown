@@ -2,7 +2,7 @@
 title: February 18th Announcements
 subtitle: Here are your Feb. 18th announcements with The Peel family and Richie Runnells
 layout: default
-modal-id: 3 
+modal-id: 2 
 date:  2018-02-18T15:40:54+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/KtDm6y-rAzk/0.jpg
