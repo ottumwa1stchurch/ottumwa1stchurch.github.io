@@ -13,18 +13,21 @@ description: "Welcome to Ottumwa 1st Church of the Open Bible!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: E84F00  ### burnt orange
+  # primary: E84F00  ### 1 burnt orange
+  primary: 52b5c6c2  ### easter blue
   #primary: 749FD0  ### sarah suggestion
   #primary: 2E67A6  ### blue
   #primary:115198    ### dark blue
-  secondary: ff971c  ### light orange
+  # secondary: ff971c  ### 1 light orange
+  secondary: 52c67ac2  ### easter green
+  # secondary: e5cc00  ### easter orange
   # BB0808 ### light maroon
   #secondary: FFB70F   ### lighter yellow
   #secondary: 033cfe
   secondary-dark: 333
 
 graphics:
-  background-image: purplestage.jpg
+  background-image: front-church-sm.jpg
 
 
 

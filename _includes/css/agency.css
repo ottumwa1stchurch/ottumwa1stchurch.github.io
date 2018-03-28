@@ -293,6 +293,7 @@ background-image: url('{{ site.baseurl }}/img/{{ site.data.template.background-i
 div.banner {
     background-image: url('{{ site.baseurl }}/img/{{ site.graphics.background-image }}');
     /*background-attachment: fixed;*/
+
     overflow-x: hidden;
     margin-top: 60px;
     background-size: contain;
