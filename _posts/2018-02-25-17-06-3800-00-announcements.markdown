@@ -2,7 +2,7 @@
 title: February 25, 2018 announcements
 subtitle: Feb. 25, 2018 Morning Announcements with Pastor Mark Hornback and Richie Runnells
 layout: default
-modal-id: 2 
+modal-id: 1 
 date:  2018-02-25T17:06:38+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/PH-m_1-VGKI/0.jpg
