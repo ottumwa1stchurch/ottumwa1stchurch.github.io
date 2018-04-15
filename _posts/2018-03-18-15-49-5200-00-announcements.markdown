@@ -2,7 +2,7 @@
 title: march 18, 2018 morning announcements
 subtitle: March 18, 2018 morning announcements with Richie Runnells and Alayna Boer!
 layout: default
-modal-id: 4 
+modal-id: 3 
 date:  2018-03-18T15:49:52+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/PnO9gJxXPNY/0.jpg

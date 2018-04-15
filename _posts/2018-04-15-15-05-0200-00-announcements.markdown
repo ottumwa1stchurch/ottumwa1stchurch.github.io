@@ -1,0 +1,12 @@
+---
+title: April 15th Announcements
+subtitle: April 15th Morning Announcements with Richie Runnells and Alayna Boer!
+layout: default
+modal-id: 7 
+date:  2018-04-15T15:05:02+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/r6KxvX_0VRs/0.jpg
+alt: https://i3.ytimg.com/vi/r6KxvX_0VRs/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/r6KxvX_0VRs" frameborder="0" allowfullscreen></iframe> 
+---
