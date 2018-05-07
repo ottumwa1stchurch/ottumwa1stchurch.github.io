@@ -1,0 +1,12 @@
+---
+title: May 6th Announcements
+subtitle: Your May 6th announcements with Mark Hornback and Richie Runnells.
+layout: default
+modal-id: 7 
+date:  2018-05-07T03:00:40+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/3Fazde8LpuE/0.jpg
+alt: https://i4.ytimg.com/vi/3Fazde8LpuE/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/3Fazde8LpuE" frameborder="0" allowfullscreen></iframe> 
+---
