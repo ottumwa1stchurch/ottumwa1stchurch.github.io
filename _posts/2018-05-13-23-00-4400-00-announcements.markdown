@@ -1,0 +1,12 @@
+---
+title: March 13 Announcements
+subtitle: Your March 2018 Announcements with Mark Hornback and Alayna Boer.
+layout: default
+modal-id: 7 
+date:  2018-05-13T23:00:44+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/pLavIb4RiKY/0.jpg
+alt: https://i1.ytimg.com/vi/pLavIb4RiKY/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/pLavIb4RiKY" frameborder="0" allowfullscreen></iframe> 
+---

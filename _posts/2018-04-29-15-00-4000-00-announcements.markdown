@@ -2,7 +2,7 @@
 title: April 29th Announcements
 subtitle: Your April 29th Announcements with Alayna Boer and Richie Runnells
 layout: default
-modal-id: 6 
+modal-id: 5 
 date:  2018-04-29T15:00:40+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/VEELulJfTiU/0.jpg
