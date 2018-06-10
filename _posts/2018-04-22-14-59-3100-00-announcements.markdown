@@ -2,7 +2,7 @@
 title: April 22nd Announcements
 subtitle: Here are your April 22nd Announcements with Alayna Boer and Richie Runnells!
 layout: default
-modal-id: 2 
+modal-id: 1 
 date:  2018-04-22T14:59:31+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/h9Jx0zvKDBM/0.jpg
