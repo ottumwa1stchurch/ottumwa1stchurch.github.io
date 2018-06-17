@@ -2,7 +2,7 @@
 title: june 10th announcements
 subtitle: Morning announcements with Alayna Boer and Kurtis Rupe.
 layout: default
-modal-id: 6 
+modal-id: 7 
 date:  2018-06-10T16:33:07+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/bXF96VvC400/0.jpg
