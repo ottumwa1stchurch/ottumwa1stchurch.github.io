@@ -2,7 +2,7 @@
 title: June 3rd Announcments
 subtitle: With Alayna Boer and Sarah Peel
 layout: default
-modal-id: 2 
+modal-id: 1 
 date:  2018-06-04T06:48:14+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/-efqY6UDNLc/0.jpg
