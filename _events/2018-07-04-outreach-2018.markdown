@@ -4,12 +4,12 @@ subtitle: July 4th 2018 Outreach
 layout: event
 modal-id: 3
 date: 2018-07-09
-img: ./img/july4outreach2018.png
-thumbnail: ./img/july4outreach2018.png
-alt: image-alt
+img: ../img/july4outreach2018.png
+thumbnail: http://img.youtube.com/vi/rxZhxV43wtM/0.jpg
+alt: https://i4.ytimg.com/vi/rxZhxV43wtM/hqdefault.jpg
 project-date:
 vimeo:
-published: true
+published: false
 description:
 ---
 
@@ -20,6 +20,7 @@ July 4th
 
 The Ottumwa community was served on the 4th of July by FCOB with your family and friends at the old Target parking lot! The grills were lit and we handed out hot dogs and chips to everybody coming to watch the fireworks! There were also be kids activities such as a bounce house and giveaways and many more for adults as well!
 
+https://youtu.be/rxZhxV43wtM
 
 -----
 
