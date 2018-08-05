@@ -2,7 +2,7 @@
 title: July 22 Announcements
 subtitle: Your July 22nd Announcements with Richie Runnells and Ben Boeck!
 layout: default
-modal-id: 6 
+modal-id: 5 
 date:  2018-07-22T20:08:45+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/3x4OqVRLUpc/0.jpg

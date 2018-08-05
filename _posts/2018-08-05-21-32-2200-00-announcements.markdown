@@ -1,0 +1,12 @@
+---
+title: August 5th Announcements
+subtitle: Here are your August 5th Announcements with Richie Runnells and Ben Boeck!
+layout: default
+modal-id: 7 
+date:  2018-08-05T21:32:22+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/4we2SUf250M/0.jpg
+alt: https://i1.ytimg.com/vi/4we2SUf250M/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/4we2SUf250M" frameborder="0" allowfullscreen></iframe> 
+---

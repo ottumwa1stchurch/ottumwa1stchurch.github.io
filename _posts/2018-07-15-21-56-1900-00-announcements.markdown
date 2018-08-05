@@ -2,7 +2,7 @@
 title: July 15th Announcements
 subtitle: Here are your July 15th Announcements with Richie Runnells and Ben Boeck.
 layout: default
-modal-id: 5 
+modal-id: 4 
 date:  2018-07-15T21:56:19+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/KqU7houSErU/0.jpg
