@@ -2,7 +2,7 @@
 title: 6 24 18 Announcements
 subtitle: Your June 24th Announcements with Sarah Peel and Richie Runnells
 layout: default
-modal-id: 2 
+modal-id: 1 
 date:  2018-06-26T00:06:34+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/Xch_k5XreVA/0.jpg
