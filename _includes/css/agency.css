@@ -86,9 +86,10 @@ h6 {
     border-color: #{{ site.color.primary }};
 text-transform: uppercase;
 font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-font-weight: 700;
+font-weight: 500;
 color: #fff;
 background-color: #{{ site.color.primary }};
+padding: 2px 10px;
 }
 
 .btn-primary:hover,
@@ -992,6 +993,7 @@ body {
       #333 10px,
       #333 20px
       );
+
 
       color: white;
 
