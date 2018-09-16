@@ -1,0 +1,12 @@
+---
+title: September 16th Announcements
+subtitle: Here is a recap of your September 16th Announcements!
+layout: default
+modal-id: 7 
+date:  2018-09-16T14:48:23+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/YLI47B3qOAM/0.jpg
+alt: https://i2.ytimg.com/vi/YLI47B3qOAM/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/YLI47B3qOAM" frameborder="0" allowfullscreen></iframe> 
+---

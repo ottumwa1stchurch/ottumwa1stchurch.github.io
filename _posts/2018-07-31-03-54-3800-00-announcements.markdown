@@ -2,7 +2,7 @@
 title: July 29th Announcements
 subtitle: Your July 29th Announcements with Mark Hornback and Richie Runnells!
 layout: default
-modal-id: 3 
+modal-id: 2 
 date:  2018-07-31T03:54:38+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/YI1i_8dVj38/0.jpg

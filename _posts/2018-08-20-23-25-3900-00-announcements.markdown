@@ -2,7 +2,7 @@
 title: August 19th Announcements
 subtitle: Your August 19th Announcements with Richie Runnells
 layout: default
-modal-id: 5 
+modal-id: 4 
 date:  2018-08-20T23:25:39+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/Fui0thRbO74/0.jpg
