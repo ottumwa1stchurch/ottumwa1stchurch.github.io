@@ -2,7 +2,7 @@
 title: September 2nd announcements
 subtitle: Your September 2nd announcements with Richie Runnells, Ben Boeck, and Pastor Mark Hornback.
 layout: default
-modal-id: 5 
+modal-id: 4 
 date:  2018-09-03T01:50:15+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/HzHM-0Pj7mI/0.jpg
