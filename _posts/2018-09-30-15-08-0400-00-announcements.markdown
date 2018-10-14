@@ -2,7 +2,7 @@
 title: September 30th Announcements
 subtitle: Your announcements for Sunday, September 30th!
 layout: default
-modal-id: 6 
+modal-id: 5 
 date:  2018-09-30T15:08:04+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/_k3TjltUvD4/0.jpg

@@ -1,0 +1,12 @@
+---
+title: October 14th Announcements
+subtitle: Here are your October 14th Announcements!
+layout: default
+modal-id: 7 
+date:  2018-10-14T14:37:23+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/x1UHyWRdVx8/0.jpg
+alt: https://i1.ytimg.com/vi/x1UHyWRdVx8/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/x1UHyWRdVx8" frameborder="0" allowfullscreen></iframe> 
+---

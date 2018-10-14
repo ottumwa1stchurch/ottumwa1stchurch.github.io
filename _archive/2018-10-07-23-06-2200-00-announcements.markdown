@@ -2,7 +2,7 @@
 title: October 7th Announcements
 subtitle: Your October 17th Announcements!
 layout: default
-modal-id: 6 
+modal-id: 7 
 date:  2018-10-07T23:06:22+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/0_i8n1gs3CA/0.jpg
