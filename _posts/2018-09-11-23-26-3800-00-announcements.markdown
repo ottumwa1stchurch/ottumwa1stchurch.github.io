@@ -2,7 +2,7 @@
 title: September 9th Announcements
 subtitle: Here is a recap or your September 9th Announcements!
 layout: default
-modal-id: 1 
+modal-id: 2 
 date:  2018-09-11T23:26:38+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/UIGRm9iHpqY/0.jpg
