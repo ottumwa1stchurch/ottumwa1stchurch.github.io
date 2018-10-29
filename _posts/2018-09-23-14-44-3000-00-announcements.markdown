@@ -2,7 +2,7 @@
 title: September 23rd Announcements
 subtitle: Your September 23rd Announcements with Richie and Mark
 layout: default
-modal-id: 3 
+modal-id: 2 
 date:  2018-09-23T14:44:30+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/fF1LNJ-juK8/0.jpg
