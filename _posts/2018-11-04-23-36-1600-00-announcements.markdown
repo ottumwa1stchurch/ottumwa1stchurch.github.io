@@ -1,0 +1,12 @@
+---
+title: November 4th Announcements
+subtitle: Your November 4th Announcements
+layout: default
+modal-id: 7 
+date:  2018-11-04T23:36:16+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/CQzgb25PE1c/0.jpg
+alt: https://i4.ytimg.com/vi/CQzgb25PE1c/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/CQzgb25PE1c" frameborder="0" allowfullscreen></iframe> 
+---
