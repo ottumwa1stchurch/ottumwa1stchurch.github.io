@@ -1,0 +1,12 @@
+---
+title: November 18th Announcements
+subtitle: Here are your November 18th Announcements!
+layout: default
+modal-id: 7 
+date:  2018-11-18T16:01:59+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/Q9DK0_y9epg/0.jpg
+alt: https://i2.ytimg.com/vi/Q9DK0_y9epg/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/Q9DK0_y9epg" frameborder="0" allowfullscreen></iframe> 
+---
