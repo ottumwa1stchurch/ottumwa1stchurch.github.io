@@ -2,7 +2,7 @@
 title: October 21st Announcements
 subtitle: Here are your October 21st Announcements!
 layout: default
-modal-id: 6 
+modal-id: 3 
 date:  2018-10-21T21:20:46+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/o4HtoGJ8P9M/0.jpg
