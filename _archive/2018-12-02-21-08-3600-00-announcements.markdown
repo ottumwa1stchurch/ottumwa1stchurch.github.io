@@ -2,7 +2,7 @@
 title: December 2nd Announcements
 subtitle: Here are your December 2nd Announcements!
 layout: default
-modal-id: 6 
+modal-id: 7 
 date:  2018-12-02T21:08:36+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/E4iD8w4iEuw/0.jpg

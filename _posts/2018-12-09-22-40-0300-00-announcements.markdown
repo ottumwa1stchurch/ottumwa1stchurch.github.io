@@ -1,0 +1,12 @@
+---
+title: December 9th announcements
+subtitle: Here is a recap of your December 9th Announcements!
+layout: default
+modal-id: 7 
+date:  2018-12-09T22:40:03+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/VhdkHYzMhJE/0.jpg
+alt: https://i3.ytimg.com/vi/VhdkHYzMhJE/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/VhdkHYzMhJE" frameborder="0" allowfullscreen></iframe> 
+---

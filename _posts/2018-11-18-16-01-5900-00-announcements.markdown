@@ -2,7 +2,7 @@
 title: November 18th Announcements
 subtitle: Here are your November 18th Announcements!
 layout: default
-modal-id: 6 
+modal-id: 4 
 date:  2018-11-18T16:01:59+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/Q9DK0_y9epg/0.jpg
