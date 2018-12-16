@@ -2,7 +2,7 @@
 title: October 28th Announcements
 subtitle: Your October 28th Announcements
 layout: default
-modal-id: 2 
+modal-id: 1 
 date:  2018-10-28T21:26:24+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/rpT-No1Ftgw/0.jpg
