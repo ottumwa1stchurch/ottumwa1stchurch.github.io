@@ -1,0 +1,12 @@
+---
+title: January 20th Announcements
+subtitle: Your January 20th Announcements!
+layout: default
+modal-id: 7 
+date:  2019-01-20T21:58:58+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/Me8wWHAIx8E/0.jpg
+alt: https://i2.ytimg.com/vi/Me8wWHAIx8E/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/Me8wWHAIx8E" frameborder="0" allowfullscreen></iframe> 
+---
