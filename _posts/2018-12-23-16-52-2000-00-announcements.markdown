@@ -2,7 +2,7 @@
 title: December 23rd Announcements
 subtitle: Your announcements for December 23rd 2018
 layout: default
-modal-id: 3 
+modal-id: 2 
 date:  2018-12-23T16:52:20+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/O3SXtCjQ77k/0.jpg

@@ -2,7 +2,7 @@
 title: January 6th Announcements
 subtitle: Here are your January 6th announcements !
 layout: default
-modal-id: 5 
+modal-id: 4 
 date:  2019-01-06T17:07:04+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/SkPwtHmEGWM/0.jpg
