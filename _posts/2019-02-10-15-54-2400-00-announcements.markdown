@@ -1,0 +1,12 @@
+---
+title: feb10announcements
+subtitle: A recap of your February 10th Announcements
+layout: default
+modal-id: 7 
+date:  2019-02-10T15:54:24+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/Vt43rco4wRU/0.jpg
+alt: https://i3.ytimg.com/vi/Vt43rco4wRU/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/Vt43rco4wRU" frameborder="0" allowfullscreen></iframe> 
+---
