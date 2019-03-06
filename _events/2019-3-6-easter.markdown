@@ -1,0 +1,26 @@
+---
+title: Easter 2019 - Series
+subtitle: Starting April 14, 2019
+layout: event
+modal-id: 5
+date: 2019-3-06
+img: ../img/easter2019.jpg
+thumbnail: ../img/easter2019.jpg
+alt: image-alt
+project-date:
+vimeo:
+published: true
+description:
+---
+
+### Easter 2019 Series:
+
+Come join us for the Easter Series April 2019!
+Sunday Mornings April 14 - April 28
+New Sermon Series Coming This Holiday Season!
+
+-----
+
+Call 641-684-6501 or check us out on <a href="https://www.facebook.com/FirstChurchOfTheOpenBibleOfOttumwa/" target="_blank">Facebook</a> to find out about any church related events you don't see here!
+
+------
