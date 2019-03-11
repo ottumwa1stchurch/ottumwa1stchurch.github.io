@@ -2,7 +2,7 @@
 title: January 27th Announcements
 subtitle: Your Sunday, Jan. 27th Announcements!
 layout: default
-modal-id: 2 
+modal-id: 1 
 date:  2019-01-27T22:37:42+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/2qhJnmTby4Y/0.jpg

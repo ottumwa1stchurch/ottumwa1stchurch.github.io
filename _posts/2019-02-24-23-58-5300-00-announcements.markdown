@@ -2,7 +2,7 @@
 title: February 24th announcements
 subtitle: Here are your Feb 24th announcements.  Correction -  The If Gathering will take place on March 22nd and 23rd.
 layout: default
-modal-id: 6 
+modal-id: 5 
 date:  2019-02-24T23:58:53+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/TPpMzPNYWEU/0.jpg
