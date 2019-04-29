@@ -2,7 +2,7 @@
 title: Easter Announcements
 subtitle: Your Announcements for Easter Sunday!
 layout: default
-modal-id: 6 
+modal-id: 7 
 date:  2019-04-21T21:43:43+00:00
 img: white_pixel.png
 thumbnail: http://img.youtube.com/vi/p2WK34r8RyE/0.jpg

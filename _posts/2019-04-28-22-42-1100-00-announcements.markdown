@@ -1,0 +1,12 @@
+---
+title: April 28th Announcements
+subtitle: A recap of your April 28th Announcements!
+layout: default
+modal-id: 7 
+date:  2019-04-28T22:42:11+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/xBujDVE7niU/0.jpg
+alt: https://i1.ytimg.com/vi/xBujDVE7niU/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/xBujDVE7niU" frameborder="0" allowfullscreen></iframe> 
+---
