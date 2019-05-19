@@ -1,0 +1,12 @@
+---
+title: May 19th Announcements
+subtitle: Your May 19th Announcements
+layout: default
+modal-id: 7 
+date:  2019-05-19T23:30:15+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/rYvb3QCgfIs/0.jpg
+alt: https://i3.ytimg.com/vi/rYvb3QCgfIs/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/rYvb3QCgfIs" frameborder="0" allowfullscreen></iframe> 
+---
