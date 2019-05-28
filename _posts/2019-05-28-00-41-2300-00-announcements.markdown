@@ -1,0 +1,12 @@
+---
+title: May 26th Announcements
+subtitle: Your May 26th Announcements
+layout: default
+modal-id: 7 
+date:  2019-05-28T00:41:23+00:00
+img: white_pixel.png
+thumbnail: http://img.youtube.com/vi/CRtgSQxGsgk/0.jpg
+alt: https://i4.ytimg.com/vi/CRtgSQxGsgk/hqdefault.jpg
+project-date: 
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/CRtgSQxGsgk" frameborder="0" allowfullscreen></iframe> 
+---
